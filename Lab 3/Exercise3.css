@@ -1,0 +1,9 @@
+.style{
+  font-family:"Arial", Sans-serif;
+  text-transform: uppercase;
+}
+
+imgframe{
+  width: 250px
+  border:10px black;
+}
