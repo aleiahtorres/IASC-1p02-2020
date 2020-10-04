@@ -1,7 +1,8 @@
 div p.middle{
   border:1px dashed;
   border-color: purple;
-  padding: 30% 5% 5% 5%;
+  padding: 15% 1% 1% 1%;
+  margin: 0% 1% 0% 1%;
   text-align: center;
 }
 
