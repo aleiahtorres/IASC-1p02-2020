@@ -1,0 +1,22 @@
+.dotted{
+  border: black 3px dotted;
+  padding-left: 1%;
+}
+
+.red{
+  color: red;
+}
+
+.green{
+  color: darkgreen;
+}
+
+.purple{
+  color: purple;
+}
+
+div{
+  border: green 20px solid;
+  background-color: green;
+  border: green 1px solid;
+}
