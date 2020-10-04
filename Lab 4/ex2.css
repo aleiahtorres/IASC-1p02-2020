@@ -1,0 +1,34 @@
+div p.middle{
+  border:1px dashed;
+  border-color: purple;
+  padding: 30% 5% 5% 5%;
+  text-align: center;
+}
+
+div p.greenMiddle{
+  text-align:center;
+  color: green;
+  font-size: smaller;
+}
+
+div p.orange{
+  color: orange;
+  font-size: x-large;
+}
+
+.superRed{
+  color: red;
+  vertical-align: super;
+}
+
+div p.purple{
+  color: purple;
+  font-size: smaller;
+  text-align: right;
+}
+
+.yellow{
+  color: yellow;
+  text-transform: uppercase;
+  font-style: italic;
+}
