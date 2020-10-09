@@ -25,7 +25,7 @@ body{
 #leftbody{
 	float:left;
 	width:3000px;
-	height: 500px;
+	height: 300px;
 	background-color:green;
 	padding-top: 10px;
 }
