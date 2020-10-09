@@ -5,7 +5,7 @@ body{
 
 
 #wrapper{
-	width:500px;
+	width:800px;
 	margin:0 auto;
 	background-color:white;
 	border-top: white 5px solid;
@@ -24,8 +24,8 @@ body{
 
 #leftbody{
 	float:left;
-	width:500px;
-	height: 200px;
+	width:800px;
+	height: 400px;
 	background-color:green;
 	padding-top: 10px;
 }
