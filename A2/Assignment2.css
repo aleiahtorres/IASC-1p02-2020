@@ -35,3 +35,5 @@ h3,h4{
 .box{
   border: blue 3px solid;
   padding: 5px;
+  margin: 10px;
+}
