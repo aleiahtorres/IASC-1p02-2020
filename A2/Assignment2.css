@@ -29,11 +29,15 @@
 }
 
 h3,h4{
-  color: Purple;
+  color: purple;
 }
 
 .box{
   border: blue 3px solid;
   padding: 5px;
   margin: 10px;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6f062a0c0dd4b0da98922c2cba2121e3e6dac5e9
 }
