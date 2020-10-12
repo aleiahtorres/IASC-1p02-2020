@@ -1,0 +1,38 @@
+.Blue{
+  color: blue;
+  position:relative;
+}
+
+.size{
+  font-size: 10px;
+}
+
+.italic{
+  font-style: italic;
+}
+
+.uppercase{
+  text-transform: uppercase;
+}
+
+.family p{
+  font-family: sans-serif;
+}
+
+.absolute{
+  position: absolute;
+}
+
+.fixed{
+  position:fixed
+}
+
+h3,h4{
+  color: Purple;
+}
+
+.box{
+  border: blue 3px solid;
+  padding: 5px;
+  margin: 10px;
+}
