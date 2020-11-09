@@ -1,0 +1,43 @@
+#wrapper {
+	height: 1000px;
+	width: 1000px;
+  background-color: white;
+  margin: 0 auto;
+}
+
+
+#header{
+  height: 150px;
+  width: 1000px;
+  background-color: white;
+  margin: 0 auto;
+  position: fixed;
+}
+
+
+
+#leftContent{
+	padding-top: 200px;
+	height: 800px;
+	width: 780px;
+	background-color: white;
+	float: left;
+}
+
+
+
+#rightContent {
+  width: 200px;
+  height: 250px;
+  background-color: #CCD1D1;
+  float: right;
+	right: 10px;
+	margin: 180px 5px 10px 10px;
+}
+
+#footer {
+  height: 80px;
+  width: 1000px;
+	background-color: #2471A3;
+  clear: both;
+}
