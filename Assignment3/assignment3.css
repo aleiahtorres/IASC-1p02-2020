@@ -15,10 +15,6 @@
 }
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 17edbdb42bc6321533c8dd56359cfe2b9fba940e
 #leftContent{
 	padding-top: 200px;
 	height: 800px;
@@ -28,27 +24,16 @@
 }
 
 
-<<<<<<< HEAD
 #rightContent {
   width: 200px;
   height: 250px;
   background-color: #7DCEA0;
-=======
-
-#rightContent {
-  width: 200px;
-  height: 250px;
-  background-color: #CCD1D1;
->>>>>>> 17edbdb42bc6321533c8dd56359cfe2b9fba940e
   float: right;
 	right: 10px;
 	margin: 180px 5px 10px 10px;
 }
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 17edbdb42bc6321533c8dd56359cfe2b9fba940e
 #footer {
   height: 80px;
   width: 1000px;
