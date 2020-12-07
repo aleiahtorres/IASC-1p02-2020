@@ -1,0 +1,102 @@
+#wrapper {
+	height: 1000px;
+	width:1420;
+  background-color: white;
+  margin: 0 auto;
+}
+
+
+#header{
+  height: 120px;
+  width: 100%;
+  background-color: #E5CEC1;
+  margin: 0 auto;
+  position:fixed;
+}
+
+.logo{
+  float:left;
+  margin: 15px 0px 0px 60px;
+}
+
+#tab1{
+	float:left;
+	width:80px;
+	height: 30px;
+	background-color:#D7B9AA;
+	padding-top: 15px;
+	margin: 40px 50px 20px 300px;
+  text-align: center;
+  font-family: Courier New, monospace;
+  font-weight:500;
+  font-size:17px;
+  color: #624A2E;
+  position: relative;
+}
+
+#tab2{
+  float:left;
+	width:80px;
+	height: 30px;
+	background-color:#D7B9AA;
+	padding-top: 15px;
+	margin: 40px 50px 20px 0px;
+  text-align: center;
+  font-family: Courier New, monospace;
+  font-weight:500;
+  font-size:17px;
+  color: #624A2E;
+  position:relative;
+
+}
+
+
+.picture{
+  width:1390px;
+  margin: 0 auto;
+  padding:130px 0px 10px 0px;
+  align: center;
+}
+
+.quote{
+  text-align: center;
+  font-family: monospace;
+  font-size: 50px;
+}
+
+#application{
+  float: center;
+	width:150px;
+	height: 80px;
+	background-color:#FA8072;
+	padding: 10px 10px 10px 10px;
+	margin: 0 auto;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 600;
+  color: white;
+  font-size:30px;
+}
+
+#footer {
+  height: 100px;
+  width: 100%;
+	background-color: #D7B9AA;
+  margin: 0 auto;
+  clear: both;
+  position: absolute;
+}
+.logo2{
+  float:left;
+  margin: 2px 0px 0px 640px;
+}
+
+.Insta{
+  float: right;
+  margin: 20px 40px 20px 0px;
+}
+
+.Twitter{
+  float: right;
+  margin: 15px 40px 20px 0px;
+}
