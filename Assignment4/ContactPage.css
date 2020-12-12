@@ -1,0 +1,118 @@
+#wrapper {
+	width:1420;
+  background-color: white;
+  margin: 0 auto;
+}
+
+
+#header{
+  height: 160px;
+  width: 100%;
+  background-color: #E5CEC1;
+  margin: 0 auto;
+  position:fixed;
+}
+
+/*https://www.w3schools.com/css/css_link.asp (source for <a href> styling)*/
+a:link {
+  text-decoration: none;
+	color: #624A2E;
+}
+
+a:visited {
+  text-decoration: none;
+	color: #624A2E;
+}
+
+a:hover {
+  text-decoration: none;
+	color: white;
+}
+
+a:active {
+  text-decoration: none;
+	color: #624A2E;
+}
+
+.logo{
+  float:left;
+  margin: 15px 0px 0px 60px;
+}
+
+.tab1{
+	float:left;
+	width:85px;
+	height: 35px;
+	background-color:#D7B9AA;
+	padding-top: 15px;
+	margin: 40px 50px 20px 300px;
+  text-align: center;
+  font-family: Courier New, monospace;
+  font-weight:500;
+  font-size:17px;
+  color: #624A2E;
+  position: relative;
+}
+
+.tab2{
+  float:left;
+  width:85px;
+  height: 35px;
+	background-color:#D7B9AA;
+	padding-top: 15px;
+	margin: 40px 50px 20px 0px;
+  text-align: center;
+  font-family: Courier New, monospace;
+  font-weight:500;
+  font-size:17px;
+  color: #624A2E;
+  position:relative;
+}
+
+.Contact{
+	float:left;
+	width:500px;
+  height:500px
+	color: #624A2E;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-weight:500;
+	font-size:20px;
+	padding: 300px 0px 20px 200px;
+  color: #624A2E;
+}
+
+.Form{
+	float: right;
+	width:300px;
+	padding:20px 0px 20px 20px;
+  font-family: 'Trebuchet MS', sans-serif;
+  border-style: solid;
+  margin: 260px 240px 100px 0px;
+}
+
+#footer{
+  height: 160px;
+  width: 100%;
+	background-color: #D7B9AA;
+  margin: 0 auto;
+  clear: both;
+  position:relative;
+	align-items: center;
+}
+
+.CenterText{
+	text-align: center;
+}
+
+.logo2{
+	display:block;
+	margin-left: auto;
+  margin-right: auto;
+	width:100px;
+}
+
+.Social{
+  float: right;
+  width:30px;
+  margin: 2px 30px 10px 0px;
+}

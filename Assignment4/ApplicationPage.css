@@ -1,0 +1,71 @@
+#wrapper {
+	width:1420;
+  background-color:#E5CEC1 ;
+  margin: 0 auto;
+}
+
+#header{
+  height: 160px;
+  width: 100%;
+  background-color: #E5CEC1;
+  margin: 0 auto;
+  position:relative;
+}
+
+.logo{
+  display:block;
+  width: 130px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 40px;
+}
+
+.solid{
+  border-style: solid;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+	width:1200px;
+	height: 400px;
+	padding:20px 2px 20px 20px;
+  font-family: 'Trebuchet MS', sans-serif;;
+  font-size: 15px;
+}
+
+.train{
+  font-size: 30px;
+  text-align: center;
+}
+
+.Form{
+	width:300px;
+	padding:20px 0px 20px 20px;
+  font-family: 'Trebuchet MS', sans-serif;
+  border-style: solid;
+  margin: 0 auto;
+}
+
+
+
+#footer{
+  height: 100px;
+  width: 100%;
+	background-color: #E5CEC1;
+  margin: 0 auto;
+  clear: both;
+  position: absolute;
+	align-items: center;
+	position: relative;
+}
+
+.CenterText{
+	text-align: center;
+}
+
+.logo2{
+	display:block;
+	margin-left: auto;
+  margin-right: auto;
+	width:50px;
+}
