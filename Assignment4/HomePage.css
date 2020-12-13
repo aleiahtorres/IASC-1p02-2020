@@ -37,37 +37,23 @@ a:active {
 
 .logo{
   float:left;
-  margin: 15px 0px 0px 60px;
+  margin: 15px 350px 0px 60px;
 }
+
 
 .tab1{
-	float:left;
-	width:85px;
-	height: 35px;
-	background-color:#D7B9AA;
-	padding-top: 15px;
-	margin: 40px 50px 20px 300px;
-  text-align: center;
-  font-family: Courier New, monospace;
-  font-weight:500;
-  font-size:17px;
-  color: #624A2E;
-  position: relative;
-}
-
-.tab2{
   float:left;
 	width:85px;
 	height: 35px;
 	background-color:#D7B9AA;
 	padding-top: 15px;
-	margin: 40px 50px 20px 0px;
+	margin: 55px 30px 60px 0px;
   text-align: center;
   font-family: Courier New, monospace;
   font-weight:500;
   font-size:17px;
   color: #624A2E;
-  position:relative;
+
 }
 
 .picture{
