@@ -3,7 +3,7 @@
 
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<title>Aleiahtorres.com</title>
+<title>AleiahTorres.com/ApplicationPage</title>
 <link href="ApplicationPage.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript" src="ContactPage.js"></script>
 </head>
@@ -16,19 +16,39 @@
     <img class="logo" src="logo.jpg" alt="Aleiah Torres' website logo"/>
   </div>
 
-  <div class="solid"><p class="train"><strong>Train with Aleiah Torres</strong></p>
+  <div class="solid"><p class="train">Training Application</p>
     <hr/>
-    Train with Aleiah to accomplish your volleyball goals. Work in small groups of 2-4 or apply for private 1:1 lessons. Due to the high demand of athletes wanting to train with Aleiah, spots are limited and she is highly selective of who she decides to work with.
-    <hr/>
-    If you think you are a good fit, apply below
-    <br/>
-    <br/> What is included:
-    <ul>
-      <li>Detailed personalized practice plan</li>
-      <li>Access to volleyball skills app</li>
-      <li>Weekly check-ins</li>
-      <li>24/7 Support</li>
-    </ul>
+    <form action="ApplicationPage.php">
+      <label for="Name">Name</label><br/>
+      <input type="text" id="Name" /><br/><br/>
+
+      <label for="Email">Email Address</label><br/>
+      <input type="text" id="Email" /><br/><br/>
+
+      <label for="Phone">Age</label><br/>
+      <input type="text" id="Phone"/><br/><br/>
+
+      <p>Have you ever had coaching before?</p>
+      <input type="radio" id="Yes" name="history" value="yes"/>
+      <label for="Yes">Yes</label>
+      <input type="radio" id="No" name="history" value="no"/>
+      <label for="No">No</label><br/><br/>
+
+      <p>What are your volleyball goals? (Check all that apply)</p>
+      <input type="checkbox" id="goal1" name="goal1" value="technique"/>
+      <label for="goal1">Improve technique</label><br/>
+      <input type="checkbox" id="goal2" name="goal2" value="strategies"/>
+      <label for="goal2">Learn game strategies</label><br/>
+      <input type="checkbox" id="goal3" name="goal3" value="build"/>
+      <label for="goal3">Build strength, endurance</label><br/>
+      <input type="checkbox" id="goal4" name="goal4" value="confidence"/>
+      <label for="goal4">Gain confidence</label><br/><br/>
+
+      <label for="message">Why do you want to train with Aleiah?</label><br/>
+      <textarea id="text" rows="5" cols="70"></textarea><br/><br/>
+
+      <button type="button">Submit</button>
+    </form>
   </div>
 
   <div id="footer">
