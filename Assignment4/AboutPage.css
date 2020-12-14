@@ -4,7 +4,6 @@
   margin: 0 auto;
 }
 
-
 #header{
   height: 160px;
   width: 100%;
@@ -68,22 +67,6 @@ a:active {
   font-size:17px;
   color: #624A2E;
   position: relative;
-}
-
-.tab2{
-  float:left;
-	width:85px;
-	height: 35px;
-	background-color:#D7B9AA;
-	padding-top: 15px;
-	margin: 40px 50px 20px 0px;
-  text-align: center;
-  font-family: Courier New, monospace;
-  font-weight:500;
-  font-size:17px;
-  color: #624A2E;
-  position:relative;
-
 }
 
 .picture{
