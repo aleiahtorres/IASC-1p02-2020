@@ -60,6 +60,14 @@ a:active {
   color: #624A2E;
 }
 
+.content{
+	display:block;
+	margin-left: auto;
+  margin-right: auto;
+	height: 700px;
+	width: 1400px;
+}
+
 .Contact{
 	float:left;
 	width:500px;
