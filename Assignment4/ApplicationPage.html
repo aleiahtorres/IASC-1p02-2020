@@ -5,7 +5,7 @@
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <title>AleiahTorres.com/ApplicationPage</title>
 <link href="ApplicationPage.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="ContactPage.js"></script>
+<script type="text/javascript" src="ApplicationPage.js"></script>
 </head>
 
 <body>
@@ -18,7 +18,7 @@
 
   <div class="solid"><p class="train">Training Application</p>
     <hr/>
-    <form action="ApplicationPage.php">
+    <form name="myForm" action="ApplicationPage.php">
       <label for="Name">Name</label><br/>
       <input type="text" id="Name" /><br/><br/>
 
@@ -47,7 +47,7 @@
       <label for="message">Why do you want to train with Aleiah?</label><br/>
       <textarea id="text" rows="5" cols="70"></textarea><br/><br/>
 
-      <button type="button">Submit</button>
+      <button type="reset" onclick="addWords()">Submit</button>
     </form>
   </div>
 
