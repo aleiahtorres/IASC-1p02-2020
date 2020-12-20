@@ -18,7 +18,7 @@
 
   <div class="solid"><p class="train">Training Application</p>
     <hr/>
-    <form name="myForm" action="ApplicationPage.php">
+    <form action="ApplicationPage.php">
       <label for="Name">Name</label><br/>
       <input type="text" id="Name" /><br/><br/>
 
@@ -46,9 +46,11 @@
 
       <label for="message">Why do you want to train with Aleiah?</label><br/>
       <textarea id="text" rows="5" cols="70"></textarea><br/><br/>
-
-      <button type="reset" onclick="addWords()">Submit</button>
     </form>
+
+      <button onclick="pushMe()">Submit</button>
+      <p id="output"> </p>
+
   </div>
 
   <div id="footer">
