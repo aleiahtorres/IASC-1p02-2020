@@ -80,11 +80,12 @@ a:active {
   margin-right: auto;
   margin-bottom: 20px;
 	width:1200px;
-	height: 430px;
+	height: 450px;
 	padding:20px 2px 20px 20px;
   font-family: 'Trebuchet MS', sans-serif;;
   font-size: 15px;
 }
+
 
 .train{
   font-size: 30px;
@@ -128,7 +129,7 @@ a.two:active {
 
 
 #footer{
-  height: 160px;
+  height: 150px;
   width: 100%;
 	background-color: #D7B9AA;
   margin: 0 auto;
